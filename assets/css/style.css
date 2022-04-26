@@ -3,17 +3,17 @@ body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
-    /*apply styles to <header>*/
 
-    header h1 {
-        font-weight: bold;
-        font-size: 36px;
-        color:#fce138;
-        margin: o;
-        padding: 20px 35px;
-        background-color: #39a6b2;
-        }
-        
-        header a {
-        color:#fce138;
+/*apply styles to <header>*/
+header h1 {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+    font-weight: bold;
+    font-size: 36px;
+    color:#fce138;
+    margin: o;
+    }
+
+header a {
+    color:#fce138;
     }
